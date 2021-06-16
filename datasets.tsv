@@ -1,0 +1,558 @@
+Name	Data Set Characteristics	Attribute Characteristics	Associated Tasks	Number of Instances	Number of Attributes	Missing Values	Area	Date Donated	Days Available	Number of Web Hits	Number of Web Hits per Day
+Abalone	Multivariate	Categorical, Integer, Real	Classification	4177	8	No	Life	1995-12-01	9118	1063357	116.62173722307523
+Adult	Multivariate	Categorical, Integer	Classification	48842	14	Yes	Social	1996-05-01	8966	1986671	221.57829578407316
+Annealing	Multivariate	Categorical, Integer, Real	Classification	798	38	Yes	Physical			171695	
+Anonymous Microsoft Web Data		Categorical	Recommender-Systems	37711	294		Computer	1998-11-01	8052	185604	23.050670640834575
+Arrhythmia	Multivariate	Categorical, Integer, Real	Classification	452	279	Yes	Life	1998-01-01	8356	329799	39.468525610339874
+Artificial Characters	Multivariate	Categorical, Integer, Real	Classification	6000	7	No	Computer	1992-07-01	10366	253712	24.475400347289213
+Audiology (Original)	Multivariate	Categorical	Classification	226		Yes	Life	1987-12-03	12038	114102	9.478484798139226
+Audiology (Standardized)	Multivariate	Categorical	Classification	226	69	Yes	Life	1992-08-18	10318	108629	10.528106222136072
+Auto MPG	Multivariate	Categorical, Real	Regression	398	8	Yes		1993-07-07	9995	597729	59.80280140070035
+Automobile	Multivariate	Categorical, Integer, Real	Regression	205	26	Yes		1987-05-19	12236	560580	45.81399150049035
+Badges	Univariate, Text		Classification	294	1	No		1994-09-01	9574	120273	12.562460831418425
+Balance Scale	Multivariate	Categorical	Classification	625	4	No	Social	1994-04-22	9706	265401	27.34401401195137
+Balloons	Multivariate	Categorical	Classification	16	4	No	Social			300288	
+Breast Cancer	Multivariate	Categorical	Classification	286	9	Yes	Life	1988-07-11	11817	509776	43.13920622831514
+Breast Cancer Wisconsin (Original)	Multivariate	Integer	Classification	699	10	Yes	Life	1992-07-15	10352	645813	62.38533616692427
+Breast Cancer Wisconsin (Prognostic)	Multivariate	Real	Classification, Regression	198	34	Yes	Life	1995-12-01	9118	222871	24.44296994955034
+Breast Cancer Wisconsin (Diagnostic)	Multivariate	Real	Classification	569	32	No	Life	1995-11-01	9148	1371186	149.88915609969393
+Pittsburgh Bridges	Multivariate	Categorical, Integer	Classification	108	13	Yes		1990-08-01	11066	106186	9.59569853605639
+Car Evaluation	Multivariate	Categorical	Classification	1728	6	No		1997-06-01	8570	1272802	148.51831971995333
+Census Income	Multivariate	Categorical, Integer	Classification	48842	14	Yes	Social	1996-05-01	8966	485177	54.11298237787196
+Chess (King-Rook vs. King-Knight)	Multivariate, Data-Generator	Categorical, Integer	Classification		22	No	Game	1988-10-03	11733	74500	6.349612204892185
+Chess (King-Rook vs. King-Pawn)	Multivariate	Categorical	Classification	3196	36	No	Game	1989-08-01	11431	120318	10.525588312483597
+Chess (King-Rook vs. King)	Multivariate	Categorical, Integer	Classification	28056	6	No	Game	1994-06-01	9666	131414	13.595489344092696
+Chess (Domain Theories)	Domain-Theory						Game			53766	
+Bach Chorales	Univariate, Time-Series	Categorical, Integer		100	6	No				135949	
+Connect-4	Multivariate, Spatial	Categorical	Classification	67557	42	No	Game	1995-02-04	9418	166682	17.698237417710768
+Credit Approval	Multivariate	Categorical, Integer, Real	Classification	690	15	Yes	Financial			447364	
+Japanese Credit Screening	Multivariate, Domain-Theory	Categorical, Real, Integer	Classification	125			Financial	1992-03-19	10470	111457	10.645367717287488
+Computer Hardware	Multivariate	Integer	Regression	209	9	No	Computer	1987-10-01	12101	320811	26.51111478390216
+Contraceptive Method Choice	Multivariate	Categorical, Integer	Classification	1473	9	No	Life	1997-07-07	8534	201440	23.60440590578861
+Covertype	Multivariate	Categorical, Integer	Classification	581012	54	No	Life	1998-08-01	8144	298854	36.69621807465619
+Cylinder Bands	Multivariate	Categorical, Integer, Real	Classification	512	39	Yes	Physical	1995-08-01	9240	80117	8.670670995670996
+Dermatology	Multivariate	Categorical, Integer	Classification	366	33	Yes	Life	1998-01-01	8356	231284	27.67879368118717
+Diabetes	Multivariate, Time-Series	Categorical, Integer			20		Life			520492	
+DGP2 - The Second Data Generation Program	Data-Generator	Real								32488	
+Document Understanding						No		1994-11-01	9513	45607	4.79417639020288
+EBL Domain Theories							Computer			24810	
+Echocardiogram	Multivariate	Categorical, Integer, Real	Classification	132	12	Yes	Life	1989-02-28	11585	195765	16.898144151920587
+Ecoli	Multivariate	Real	Classification	336	8	No	Life	1996-09-01	8843	241298	27.286893588148818
+Flags	Multivariate	Categorical, Integer	Classification	194	30	No		1990-05-15	11144	313938	28.171033740129218
+Function Finding		Real	Function-Learning	352		No	Physical	1990-09-01	11035	55362	5.0169460806524695
+Glass Identification	Multivariate	Real	Classification	214	10	No	Physical	1987-09-01	12131	362396	29.873547110708103
+Haberman's Survival	Multivariate	Integer	Classification	306	3	No	Life	1999-03-04	7929	219969	27.74233825198638
+Hayes-Roth	Multivariate	Categorical	Classification	160	5	No	Social	1989-03-01	11584	104622	9.031595303867404
+Heart Disease	Multivariate	Categorical, Integer, Real	Classification	303	75	Yes	Life	1988-07-01	11827	1361041	115.07914094867675
+Hepatitis	Multivariate	Categorical, Integer, Real	Classification	155	19	Yes	Life	1988-11-01	11704	268176	22.913192071086808
+Horse Colic	Multivariate	Categorical, Integer, Real	Classification	368	27	Yes	Life	1989-08-06	11426	154680	13.537545947838264
+ICU	Multivariate, Time-Series	Real				No	Life			97444	
+Image Segmentation	Multivariate	Real	Classification	2310	19	No		1990-11-01	10974	204952	18.67614361217423
+Internet Advertisements	Multivariate	Categorical, Integer, Real	Classification	3279	1558	Yes	Computer	1998-07-01	8175	363637	44.481590214067275
+Ionosphere	Multivariate	Integer, Real	Classification	351	34	No	Physical	1989-01-01	11643	240639	20.668126771450655
+Iris	Multivariate	Real	Classification	150	4	No	Life	1988-07-01	11827	3659898	309.45277754291027
+ISOLET	Multivariate	Real	Classification	7797	617	No	Computer	1994-09-12	9563	126863	13.26602530586636
+Kinship	Relational	Categorical	Relational-Learning	104	12	No	Social	1990-07-01	11097	78602	7.083175633053979
+Labor Relations	Multivariate	Categorical, Integer, Real		57	16	No	Social	1988-11-01	11704	81371	6.9524094326725905
+LED Display Domain	Multivariate, Data-Generator	Categorical	Classification		7	No	Computer	1988-11-10	11695	71399	6.105087644292433
+Lenses	Multivariate	Categorical	Classification	24	4	No		1990-08-01	11066	179915	16.25835893728538
+Letter Recognition	Multivariate	Integer	Classification	20000	16	No	Computer	1991-01-01	10913	404155	37.03427105287272
+Liver Disorders	Multivariate	Categorical, Integer, Real		345	7	No	Life	1990-05-15	11144	185242	16.622577171572146
+Logic Theorist	Domain-Theory						Computer			34891	
+Lung Cancer	Multivariate	Integer	Classification	32	56	Yes	Life	1992-05-01	10427	315652	30.272561618874075
+Lymphography	Multivariate	Categorical	Classification	148	18	No	Life	1988-11-01	11704	93005	7.946428571428571
+Mechanical Analysis	Multivariate	Categorical, Integer, Real	Classification	209	8	No	Computer	1990-06-01	11127	102767	9.23582277343399
+Meta-data	Multivariate	Categorical, Integer, Real	Classification	528	22	Yes		1996-03-01	9027	76903	8.519220117425501
+Mobile Robots	Domain-Theory	Categorical, Integer, Real					Computer	1995-07-15	9257	76294	8.241762990169601
+Molecular Biology (Promoter Gene Sequences)	Sequential, Domain-Theory	Categorical	Classification	106	58	No	Life	1990-06-30	11098	80274	7.233195170300955
+Molecular Biology (Protein Secondary Structure)	Sequential	Categorical	Classification	128			Life			57465	
+Molecular Biology (Splice-junction Gene Sequences)	Sequential, Domain-Theory	Categorical	Classification	3190	61	No	Life	1992-01-01	10548	104250	9.883390216154721
+MONK's Problems	Multivariate	Categorical	Classification	432	7	No		1992-10-01	10274	214448	20.872883005645317
+Moral Reasoner	Domain-Theory			202			Computer	1994-06-01	9666	40812	4.222222222222222
+Multiple Features	Multivariate	Integer, Real	Classification	2000	649	No	Computer			115138	
+Mushroom	Multivariate	Categorical	Classification	8124	22	Yes	Life	1987-04-27	12258	577047	47.07513460597161
+Musk (Version 1)	Multivariate	Integer	Classification	476	168	No	Physical	1994-09-12	9563	68910	7.205897730837603
+Musk (Version 2)	Multivariate	Integer	Classification	6598	168	No	Physical	1994-09-12	9563	74377	7.777580257241452
+Nursery	Multivariate	Categorical	Classification	12960	8	No	Social	1997-06-01	8570	206068	24.045274212368728
+Othello Domain Theory	Domain-Theory					No	Game	1991-02-01	10882	28540	2.6226796544752804
+Page Blocks Classification	Multivariate	Integer, Real	Classification	5473	10	No	Computer	1995-07-01	9271	100672	10.858807032682558
+Optical Recognition of Handwritten Digits	Multivariate	Integer	Classification	5620	64	No	Computer	1998-07-01	8175	287733	35.196697247706425
+Pen-Based Recognition of Handwritten Digits	Multivariate	Integer	Classification	10992	16	No	Computer	1998-07-01	8175	234444	28.67816513761468
+Post-Operative Patient	Multivariate	Categorical, Integer	Classification	90	8	Yes	Life	1993-06-01	10031	109965	10.96251619978068
+Primary Tumor	Multivariate	Categorical	Classification	339	17	Yes	Life	1988-11-01	11704	137171	11.72001025290499
+Prodigy	Domain-Theory									34851	
+Qualitative Structure Activity Relationships	Domain-Theory						Physical			27700	
+Quadruped Mammals	Multivariate, Data-Generator	Real	Classification		72	No	Life	1992-08-25	10311	68899	6.682087091455727
+Servo	Multivariate	Categorical, Integer	Regression	167	4	No	Computer	1993-05-01	10062	110019	10.934108527131784
+Shuttle Landing Control	Multivariate	Categorical	Classification	15	6	No	Physical	1988-11-01	11704	107272	9.165413533834586
+Solar Flare	Multivariate	Categorical	Regression	1389	10	No	Physical	1989-03-01	11584	155101	13.389243784530386
+Soybean (Large)	Multivariate	Categorical	Classification	307	35	Yes	Life	1988-07-11	11817	131545	11.131843953626133
+Soybean (Small)	Multivariate	Categorical	Classification	47	35	No	Life	1987-01-01	12374	105438	8.520930984321966
+Challenger USA Space Shuttle O-Ring	Multivariate	Integer	Regression	23	4	No	Physical	1993-08-05	9966	145383	14.587898856110776
+Low Resolution Spectrometer	Multivariate	Integer, Real	Classification	531	102		Physical	1988-03-01	11949	54409	4.553435433927525
+Spambase	Multivariate	Integer, Real	Classification	4601	57	Yes	Computer	1999-07-01	7810	541406	69.32215108834828
+SPECT Heart	Multivariate	Categorical	Classification	267	22	No	Life	2001-10-01	6987	208770	29.87977672820953
+SPECTF Heart	Multivariate	Integer	Classification	267	44	No	Life	2001-10-01	6987	96761	13.84871904966366
+Sponge	Multivariate	Categorical, Integer	Clustering	76	45	Yes	Life			96572	
+Statlog Project								1992-10-01	10274	48556	4.7261047303873855
+Student Loan Relational	Domain-Theory			1000			Social	1993-01-01	10182	70202	6.894716165782754
+Teaching Assistant Evaluation	Multivariate	Categorical, Integer	Classification	151	5	No		1997-06-07	8564	166900	19.488556749182624
+Tic-Tac-Toe Endgame	Multivariate	Categorical	Classification	958	9	No	Game	1991-08-19	10683	250521	23.450435270991296
+Thyroid Disease	Multivariate, Domain-Theory	Categorical, Real	Classification	7200	21		Life	1987-01-01	12374	249361	20.152012283820916
+Trains	Multivariate	Categorical	Classification	10	32			1994-06-24	9643	160218	16.614953852535518
+University	Multivariate	Categorical, Integer	Classification	285	17	Yes		1988-07-01	11827	228959	19.35900904709563
+Congressional Voting Records	Multivariate	Categorical	Classification	435	16	Yes	Social	1987-04-27	12258	230879	18.834964920868003
+Water Treatment Plant	Multivariate	Integer, Real	Clustering	527	38		Physical	1993-06-01	10031	150530	15.006479912271956
+Waveform Database Generator (Version 1)	Multivariate, Data-Generator	Real	Classification	5000	21	No	Physical	1988-11-10	11695	76803	6.567165455322788
+Waveform Database Generator (Version 2)	Multivariate, Data-Generator	Real	Classification	5000	40	No	Physical	1988-11-10	11695	62064	5.306883283454468
+Wine	Multivariate	Integer, Real	Classification	178	13	No	Physical	1991-07-01	10732	1534939	143.0245061498323
+Yeast	Multivariate	Real	Classification	1484	8	No	Life	1996-09-01	8843	314865	35.606129141694
+Zoo	Multivariate	Categorical, Integer	Classification	101	17	No	Life	1990-05-15	11144	334220	29.99102656137832
+Undocumented										28537	
+Twenty Newsgroups	Text			20000		No		1999-09-09	7740	118417	15.29935400516796
+Australian Sign Language signs	Multivariate, Time-Series	Categorical, Real	Classification	6650	15			1999-04-20	7882	102967	13.063562547576757
+Australian Sign Language signs (High Quality)	Multivariate, Time-Series	Real	Classification	2565	22			2002-02-26	6839	114586	16.75478871179997
+US Census Data (1990)	Multivariate	Categorical	Clustering	2458285	68		Social			161346	
+Census-Income (KDD)	Multivariate	Categorical, Integer	Classification	299285	40	Yes	Social	2000-03-07	7560	180961	23.93664021164021
+Coil 1999 Competition Data	Multivariate	Categorical, Real		340	17	No	Physical	1999-09-09	7740	51957	6.712790697674419
+Corel Image Features	Multivariate	Real		68040	89			1999-07-01	7810	88833	11.37426376440461
+E. Coli Genes	Relational					Yes	Life	2001-07-14	7066	49249	6.969855646759128
+EEG Database	Multivariate, Time-Series	Categorical, Integer, Real		122	4	Yes	Life	1999-10-13	7706	220016	28.551258759408253
+El Nino	Spatio-temporal	Integer, Real		178080	12	Yes	Physical	1999-06-30	7811	102331	13.100883369606965
+Entree Chicago Recommendation Data	Transactional, Sequential	Categorical	Recommender-Systems	50672		Yes		2000-03-09	7558	96276	12.738290553056364
+CMU Face Images	Image	Integer	Classification	640		Yes		1999-06-24	7817	152037	19.449533068952285
+Insurance Company Benchmark (COIL 2000)	Multivariate	Categorical, Integer	Regression, Description	9000	86	No	Social	2000-07-03	7442	160678	21.590701424348293
+Internet Usage Data	Multivariate	Categorical, Integer		10104	72	No	Computer	1999-06-30	7811	119658	15.319165279733708
+IPUMS Census Database	Multivariate	Categorical, Integer		256932	61		Social	1999-11-09	7679	42443	5.527151972913139
+Japanese Vowels	Multivariate, Time-Series	Real	Classification	640	12					113481	
+KDD Cup 1998 Data	Multivariate	Categorical, Integer	Regression	191779	481	Yes		1998-07-20	8156	80330	9.849190779794016
+KDD Cup 1999 Data	Multivariate	Categorical, Integer	Classification	4000000	42		Computer	1999-01-01	7991	160323	20.062945814040795
+M. Tuberculosis Genes	Relational						Life	2001-07-14	7066	38867	5.500566091140674
+Movie	Multivariate, Relational			10000		Yes		1999-07-07	7804	216849	27.786904151717067
+MSNBC.com Anonymous Web Data	Sequential	Categorical		989818			Computer			83247	
+NSF Research Award Abstracts 1990-2003	Text			129000				2003-11-18	6209	48646	7.834755999355774
+Pioneer-1 Mobile Robot Data	Multivariate, Time-Series	Categorical, Real					Computer	1999-01-28	7964	40154	5.0419387242591664
+Pseudo Periodic Synthetic Time Series	Univariate, Time-Series			100000				1999-02-08	7953	46804	5.885074814535395
+Reuters-21578 Text Categorization Collection	Text	Categorical	Classification	21578	5			1997-09-26	8453	196134	23.202886549154147
+Robot Execution Failures	Multivariate, Time-Series	Integer	Classification	463	90		Physical	1999-04-23	7879	105221	13.35461352963574
+Synthetic Control Chart Time Series	Time-Series	Real	Classification, Clustering	600		No		1999-06-08	7833	81771	10.43929528916124
+Syskill and Webert Web Page Ratings	Multivariate, Text	Categorical	Classification	332	5		Computer	1998-10-20	8064	69250	8.587549603174603
+UNIX User Data	Text, Sequential						Computer			56500	
+Volcanoes on Venus - JARtool experiment	Image		Classification			Yes	Physical			49947	
+Statlog (Australian Credit Approval)	Multivariate	Categorical, Integer, Real	Classification	690	14	Yes	Financial			174253	
+Statlog (German Credit Data)	Multivariate	Categorical, Integer	Classification	1000	20		Financial	1994-11-17	9497	656633	69.14109718858587
+Statlog (Heart)	Multivariate	Categorical, Real	Classification	270	13	No	Life			230908	
+Statlog (Landsat Satellite)	Multivariate	Integer	Classification	6435	36		Physical	1993-02-13	10139	137293	13.541079001873952
+Statlog (Image Segmentation)	Multivariate	Real	Classification	2310	19	No		1990-11-01	10974	62792	5.72188809914343
+Statlog (Shuttle)	Multivariate	Integer	Classification	58000	9		Physical			143407	
+Statlog (Vehicle Silhouettes)	Multivariate	Integer	Classification	946	18					132245	
+Connectionist Bench (Nettalk Corpus)	Multivariate	Categorical		20008	4					47831	
+Connectionist Bench (Sonar, Mines vs. Rocks)	Multivariate	Real	Classification	208	60		Physical			191411	
+Connectionist Bench (Vowel Recognition - Deterding Data)		Real	Classification	528	10					76593	
+Economic Sanctions	Domain-Theory						Financial			60955	
+Protein Data							Life			73560	
+Cloud	Multivariate	Real		1024	10		Physical	1989-08-03	11429	135379	11.845218304313589
+CalIt2 Building People Counts	Multivariate, Time-Series	Categorical, Integer		10080	4	No		2006-12-01	5100	55437	10.87
+Dodgers Loop Sensor	Multivariate, Time-Series	Categorical, Integer		50400	3	Yes		2006-12-01	5100	76188	14.938823529411765
+Poker Hand	Multivariate	Categorical, Integer	Classification	1025010	11	No	Game	2007-01-01	5069	621039	122.51706450976523
+MAGIC Gamma Telescope	Multivariate	Real	Classification	19020	11	No	Physical	2007-05-01	4949	119235	24.092746009294807
+UJI Pen Characters	Multivariate, Sequential	Integer	Classification	1364		No	Computer	2007-06-01	4918	98950	20.119967466449776
+Mammographic Mass	Multivariate	Integer	Classification	961	6	Yes	Life	2007-10-29	4768	178901	37.52118288590604
+Forest Fires	Multivariate	Real	Regression	517	13		Physical	2008-02-29	4645	942930	202.9989235737352
+Reuters Transcribed Subset	Text		Classification	200			Business	2008-03-08	4637	57837	12.472935087340954
+Bag of Words	Text	Integer	Clustering	8000000	100000			2008-03-12	4633	317912	68.61903734081588
+Concrete Compressive Strength	Multivariate	Real	Regression	1030	9		Physical	2007-08-03	4855	219055	45.11946446961895
+Hill-Valley	Sequential	Real	Classification	606	101			2008-03-20	4625	72425	15.659459459459459
+Arcene	Multivariate	Real	Classification	900	10000		Life	2008-02-29	4645	136812	29.45360602798708
+Dexter	Multivariate	Integer	Classification	2600	20000			2008-02-29	4645	105877	22.793756727664157
+Dorothea	Multivariate	Integer	Classification	1950	100000		Life	2008-02-29	4645	112086	24.130462863293864
+Gisette	Multivariate	Integer	Classification	13500	5000		Computer	2008-02-29	4645	120733	25.992034445640474
+Madelon	Multivariate	Real	Classification	4400	500			2008-02-29	4645	138623	29.843487621097953
+Ozone Level Detection	Multivariate, Sequential, Time-Series	Real	Classification	2536	73	Yes	Physical	2008-04-21	4593	144007	31.353581537121705
+Abscisic Acid Signaling Network	Multivariate	Integer	Causal-Discovery	300	43		Life	2008-04-03	4611	57579	12.487312947299936
+Parkinsons	Multivariate	Real	Classification	197	23		Life	2008-06-26	4527	278672	61.55776452396731
+Character Trajectories	Time-Series	Real	Classification, Clustering	2858	3		Computer	2008-08-20	4472	151143	33.79762969588551
+Blood Transfusion Service Center	Multivariate	Real	Classification	748	5		Business	2008-10-03	4428	340420	76.87895212285456
+UJI Pen Characters (Version 2)	Multivariate, Sequential	Integer	Classification	11640			Computer	2009-01-22	4317	66101	15.311790595320824
+Semeion Handwritten Digit	Multivariate	Integer	Classification	1593	256		Computer	2008-11-11	4389	130508	29.73524720893142
+SECOM	Multivariate	Real	Classification, Causal-Discovery	1567	591	Yes	Computer	2008-11-19	4381	127328	29.06368409039032
+Plants	Multivariate	Categorical	Clustering	22632	70	Yes	Life	2008-12-31	4339	198243	45.68863793500807
+Libras Movement	Multivariate, Sequential	Real	Classification, Clustering	360	91			2009-08-17	4110	86876	21.137712895377128
+Concrete Slump Test	Multivariate	Real	Regression	103	10		Computer	2009-04-30	4219	103363	24.499407442521925
+Communities and Crime	Multivariate	Real	Regression	1994	128	Yes	Social	2009-07-13	4145	298858	72.10084439083232
+Acute Inflammations	Multivariate	Categorical, Integer	Classification	120	6	No	Life	2009-02-11	4297	182134	42.386316034442636
+Wine Quality	Multivariate	Real	Classification, Regression	4898	12		Business	2009-10-07	4059	1357722	334.49667405764967
+URL Reputation	Multivariate, Time-Series	Integer, Real	Classification	2396130	3231961		Computer	2009-10-15	4051	141574	34.947914095285114
+p53 Mutants	Multivariate	Real	Classification	16772	5409	Yes	Life	2010-02-09	3934	81208	20.642602948652772
+Parkinsons Telemonitoring	Multivariate	Integer, Real	Regression	5875	26		Life	2009-10-29	4037	155794	38.591528362645526
+Demospongiae	Multivariate	Integer	Classification	503		Yes	Life	2010-01-21	3953	56823	14.374652162914243
+Opinosis Opinion ⁄ Review	Text			51			Computer	2010-07-06	3787	50356	13.297068919989437
+Breast Tissue	Multivariate	Real	Classification	106	10		Life	2010-05-10	3844	129545	33.70057232049948
+Cardiotocography	Multivariate	Real	Classification	2126	23		Life	2010-09-07	3724	175851	47.22099892588614
+Wall-Following Robot Navigation Data	Multivariate, Sequential	Real	Classification	5456	24		Computer	2010-08-04	3758	64389	17.133847791378393
+Spoken Arabic Digit	Multivariate, Time-Series	Real	Classification	8800	13	No		2010-09-13	3718	79810	21.465841850457235
+Localization Data for Person Activity	Univariate, Sequential, Time-Series	Real	Classification	164860	8		Life	2010-11-03	3667	108647	29.62830651758931
+AutoUniv	Multivariate	Categorical, Integer, Real	Classification					2010-11-03	3667	60527	16.50586310335424
+Steel Plates Faults	Multivariate	Integer, Real	Classification	1941	27		Physical	2010-10-26	3675	85274	23.203809523809525
+MiniBooNE particle identification	Multivariate	Real	Classification	130065	50		Physical	2010-12-13	3627	53612	14.78136200716846
+YearPredictionMSD	Multivariate	Real	Regression	515345	90			2011-02-07	3571	183649	51.42789134696164
+PEMS-SF	Multivariate, Time-Series	Real	Classification	440	138672		Computer	2011-05-22	3467	72497	20.910585520623016
+OpinRank Review Dataset	Text						Computer	2011-07-26	3402	52291	15.37066431510876
+Relative location of CT slices on axial axis	Domain-Theory	Real	Regression	53500	386		Computer	2011-07-07	3421	58565	17.119263373282667
+Online Handwritten Assamese Characters Dataset	Multivariate, Sequential	Integer	Classification	8235			Computer	2011-04-01	3518	48489	13.783115406480954
+PubChem Bioassay Data	Multivariate	Integer, Real	Classification				Life	2011-03-29	3521	40124	11.395626242544731
+Record Linkage Comparison Patterns	Multivariate	Real	Classification	5749132	12	Yes		2011-03-10	3540	82148	23.205649717514124
+Communities and Crime Unnormalized	Multivariate	Real	Regression	2215	147	Yes	Social	2011-03-02	3548	150123	42.312006764374296
+Vertebral Column	Multivariate	Real	Classification	310	6			2011-08-09	3388	175235	51.722255017709564
+EMG Physical Action Data Set	Time-Series	Real	Classification	10000	8		Physical	2011-07-27	3401	88231	25.942663922375772
+Vicon Physical Action Data Set	Time-Series	Real	Classification	3000	27		Physical	2011-07-27	3401	54055	15.893854748603353
+Amazon Commerce reviews set	Multivariate, Text, Domain-Theory	Real	Classification	1500	10000		Physical	2011-06-11	3447	205610	59.64897011894401
+Amazon Access Samples	Time-Series, Domain-Theory		Regression, Clustering, Causal-Discovery	30000	20000		Business	2011-09-13	3353	211560	63.09573516254101
+Reuter_50_50	Multivariate, Text, Domain-Theory	Real	Classification, Clustering	2500	10000		Computer	2011-09-08	3358	66928	19.930911256700416
+Farm Ads	Text		Classification	4143	54877		Business	2011-10-18	3318	76637	23.097347799879447
+DBWorld e-mails	Text		Classification	64	4702		Computer	2011-11-06	3299	60760	18.41770233404062
+KEGG Metabolic Relation Network (Directed)	Multivariate, Univariate, Text	Integer, Real	Classification, Regression, Clustering	53414	24		Life	2011-11-28	3277	58168	17.75038144644492
+KEGG Metabolic Reaction Network (Undirected)	Multivariate, Univariate, Text	Integer, Real	Classification, Regression, Clustering	65554	29	Yes	Life	2011-11-28	3277	55411	16.90906316753128
+Bank Marketing	Multivariate	Real	Classification	45211	17		Business	2012-02-14	3199	1324241	413.95467333541734
+YouTube Comedy Slam Preference Data	Text		Classification	1138562	3		Computer	2012-04-10	3143	94374	30.02672605790646
+Gas Sensor Array Drift Dataset	Multivariate	Real	Classification	13910	128		Computer	2012-04-25	3128	146411	46.80658567774936
+ILPD (Indian Liver Patient Dataset)	Multivariate	Integer, Real	Classification	583	10		Life	2012-05-21	3102	139041	44.82301740812379
+OPPORTUNITY Activity Recognition	Multivariate, Time-Series	Real	Classification	2551	242	Yes	Computer	2012-06-09	3083	102694	33.30976321764515
+Nomao	Univariate	Real	Classification	34465	120	Yes	Computer	2012-07-04	3058	53572	17.518639633747547
+SMS Spam Collection	Multivariate, Text, Domain-Theory	Real	Classification, Clustering	5574			Computer	2012-06-22	3070	328736	107.08013029315961
+Skin Segmentation	Univariate	Real	Classification	245057	4		Computer	2012-07-17	3045	210264	69.05221674876847
+Planning Relax	Univariate	Real	Classification	182	13		Computer	2012-07-17	3045	61361	20.151395730706074
+PAMAP2 Physical Activity Monitoring	Multivariate, Time-Series	Real	Classification	3850505	52	Yes	Computer	2012-08-06	3025	97910	32.36694214876033
+Restaurant & consumer data	Multivariate			138	47	Yes	Computer	2012-08-04	3027	147789	48.823587710604556
+CNAE-9	Multivariate, Text	Integer	Classification	1080	857		Business	2012-08-03	3028	67303	22.226882430647294
+Individual household electric power consumption	Multivariate, Time-Series	Real	Regression, Clustering	2075259	9	Yes	Physical	2012-08-30	3001	387231	129.0339886704432
+seeds	Multivariate	Real	Classification, Clustering	210	7		Life	2012-09-29	2971	322867	108.67283742847526
+Northix	Multivariate, Univariate, Text	Integer, Real	Classification	115	200		Computer	2012-08-15	3016	39105	12.965848806366047
+QtyT40I10D100K	Sequential	Integer		3960456	4			2012-10-21	2949	42109	14.279077653441846
+Legal Case Reports	Text		Classification					2012-10-19	2951	92379	31.304303625889528
+Human Activity Recognition Using Smartphones	Multivariate, Time-Series		Classification, Clustering	10299	561		Computer	2012-12-10	2899	1055781	364.1879958606416
+One-hundred plant species leaves data set		Real	Classification	1600	64		Life	2012-12-03	2906	74973	25.799380591878872
+Energy efficiency	Multivariate	Integer, Real	Classification, Regression	768	8		Computer	2012-11-30	2909	322416	110.83396356136129
+Yacht Hydrodynamics	Multivariate	Real	Regression	308	7		Physical	2013-01-03	2875	104072	36.19895652173913
+Fertility	Multivariate	Real	Classification, Regression	100	10		Life	2013-01-17	2861	209911	73.3698007689619
+Daphnet Freezing of Gait	Multivariate, Time-Series	Real	Classification	237	9		Life	2013-03-07	2812	73482	26.13157894736842
+3D Road Network (North Jutland, Denmark)	Sequential, Text	Real	Regression, Clustering	434874	4		Computer	2013-04-16	2772	193578	69.83333333333333
+ISTANBUL STOCK EXCHANGE	Multivariate, Univariate, Time-Series	Real	Classification, Regression	536	8		Business	2013-06-01	2726	140877	51.67901687454145
+Buzz in social media 	Time-Series, Multivariate	Integer, Real	Regression, Classification	140000	77		Computer	2013-05-27	2731	163413	59.836323690955695
+First-order theorem proving	Multivariate	Real	Classification	6118	51		Computer	2013-04-17	2771	44411	16.027066041140383
+Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)	Sequential	Integer, Real	Classification	165632	18		Computer	2013-04-09	2779	60663	21.82907520690896
+Gas sensor arrays in open sampling settings	Multivariate, Time-Series	Real	Classification	18000	1950000		Computer	2013-06-05	2722	47788	17.55620867009552
+Climate Model Simulation Crashes	Multivariate	Real	Classification	540	18		Physical	2013-06-18	2709	89502	33.03875968992248
+MicroMass	Multivariate	Real	Classification	931	1300		Life	2013-08-12	2654	48533	18.28673700075358
+QSAR biodegradation	Multivariate	Integer, Real	Classification	1055	41			2013-06-21	2706	49524	18.301552106430155
+BLOGGER	Multivariate		Classification	100	6		Computer	2013-07-06	2691	84685	31.46971386101821
+Daily and Sports Activities	Multivariate, Time-Series	Real	Classification, Clustering	9120	5625		Computer	2013-07-08	2689	195854	72.8352547415396
+User Knowledge Modeling	Multivariate	Integer	Classification, Clustering	403	5		Computer	2013-06-26	2701	131119	48.54461310625694
+Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection	Multivariate	Real	Classification	111740			Life	2013-09-06	2629	62076	23.612019779383797
+NYSK	Multivariate, Sequential, Text		Clustering	10421	7		Social	2013-10-11	2594	54755	21.108326908249808
+Turkiye Student Evaluation	Multivariate		Classification, Clustering	5820	33			2013-09-01	2634	104008	39.48671222475323
+ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)	Multivariate	Real	Classification	403	5		Computer	2013-06-20	2707	39158	14.46545991872922
+EEG Eye State	Multivariate, Sequential, Time-Series	Integer, Real	Classification	14980	15		Life	2013-06-10	2717	127394	46.88774383511225
+Physicochemical Properties of Protein Tertiary Structure	Multivariate	Real	Regression	45730	9		Life	2013-03-31	2788	57640	20.674318507890963
+seismic-bumps	Multivariate	Real	Classification	2584	19			2013-04-03	2785	68655	24.651705565529625
+banknote authentication	Multivariate	Real	Classification	1372	5		Computer	2013-04-16	2772	274243	98.93326118326118
+USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat	Domain-Theory	Integer	Classification	306	5			2013-10-13	2592	34596	13.347222222222221
+YouTube Multiview Video Games Dataset	Multivariate, Text	Integer, Real	Classification, Clustering	120000	1000000	Yes	Computer	2013-10-16	2589	133283	51.480494399382
+Gas Sensor Array Drift Dataset at Different Concentrations	Multivariate, Time-Series	Real	Classification, Regression, Clustering, Causa	13910	129		Computer	2013-10-23	2582	72574	28.107668474051124
+Activities of Daily Living (ADLs) Recognition Using Binary Sensors	Multivariate, Sequential, Time-Series		Classification, Clustering	2747			Computer	2013-10-28	2577	93173	36.15560729530462
+SkillCraft1 Master Table Dataset	Multivariate	Integer, Real	Regression	3395	20	Yes	Game	2013-10-22	2583	66331	25.679829655439413
+Weight Lifting Exercises monitored with Inertial Measurement Units	Multivariate	Real	Classification	39242	152	Yes	Physical	2013-11-24	2550	46640	18.29019607843137
+SML2010	Multivariate, Sequential, Time-Series, Text	Real	Regression	4137	24	Yes	Computer	2014-01-09	2504	130020	51.924920127795524
+Bike Sharing Dataset	Univariate	Integer, Real	Regression	17389	16		Social	2013-12-20	2524	523916	207.57369255150556
+Predict keywords activities in a online social media	Multivariate, Sequential, Time-Series	Integer, Real		51	35		Computer	2013-12-12	2532	46535	18.37875197472354
+Thoracic Surgery Data	Multivariate	Integer, Real	Classification	470	17		Life	2013-11-13	2561	104565	40.82975400234284
+EMG dataset in Lower Limb	Multivariate, Time-Series	Real		132	5		Computer	2014-02-05	2477	51147	20.64876867178038
+SUSY		Real	Classification	5000000	18		Physical	2014-02-12	2470	72542	29.369230769230768
+HIGGS		Real	Classification	11000000	28		Physical	2014-02-12	2470	157406	63.72712550607287
+Qualitative_Bankruptcy	Multivariate		Classification	250	7		Computer	2014-02-09	2473	84097	34.00606550748079
+LSVT Voice Rehabilitation	Multivariate	Real	Classification	126	309		Life	2014-02-19	2463	35898	14.574908647990256
+Dataset for ADL Recognition with Wrist-worn Accelerometer	Multivariate, Time-Series		Classification, Clustering		3		Computer	2014-02-11	2471	81587	33.01780655605018
+Wilt	Multivariate		Classification	4889	6		Life	2014-03-13	2441	61955	25.380991396968454
+User Identification From Walking Activity	Univariate, Sequential, Time-Series	Real	Classification, Clustering					2014-03-02	2452	75617	30.838907014681894
+Activity Recognition from Single Chest-Mounted Accelerometer	Univariate, Sequential, Time-Series	Real	Classification, Clustering					2014-03-02	2452	113864	46.43719412724307
+Leaf	Multivariate	Real	Classification	340	16		Computer	2014-02-24	2458	131614	53.54515866558177
+Dresses_Attribute_Sales	Text		Classification, Clustering	501	13	Yes	Computer	2014-02-19	2463	113266	45.987007714169714
+Tamilnadu Electricity Board Hourly Readings	Multivariate	Real	Classification, Regression, Clustering	45781	5		Life	2013-12-22	2522	76681	30.404837430610627
+Airfoil Self-Noise	Multivariate	Real	Regression	1503	6		Physical	2014-03-04	2450	139067	56.76204081632653
+Wholesale customers	Multivariate	Integer	Classification, Clustering	440	8		Business	2014-03-31	2423	363377	149.96987205943046
+Twitter Data set for Arabic Sentiment Analysis	Text		Classification	2000	2		Social	2014-04-11	2412	93511	38.76907131011609
+Combined Cycle Power Plant	Multivariate	Real	Regression	9568	4		Computer	2014-03-26	2428	182003	74.96004942339374
+Urban Land Cover	Multivariate		Classification	168	148		Physical	2014-03-27	2427	48830	20.11948908117017
+Diabetes 130-US hospitals for years 1999-2008	Multivariate	Integer	Classification, Clustering	100000	55	Yes	Life	2014-05-03	2390	329230	137.7531380753138
+Bach Choral Harmony	Sequential		Classification	5665	17			2014-05-20	2373	51347	21.63801095659503
+StoneFlakes	Multivariate	Real	Classification, Clustering, Causal-Discovery	79	8	Yes		2014-05-20	2373	64749	27.285714285714285
+Tennis Major Tournament Match Statistics	Multivariate	Integer, Real	Classification, Regression, Clustering	127	42	Yes		2014-06-01	2361	104149	44.112240576027105
+Parkinson Speech Dataset with  Multiple Types of Sound Recordings	Multivariate	Integer, Real	Classification, Regression	1040	26		Life	2014-06-12	2350	104223	44.350212765957444
+Gesture Phase Segmentation	Multivariate, Sequential, Time-Series	Real	Classification, Clustering	9900	50			2014-06-18	2344	54067	23.066126279863482
+Perfume Data	Univariate, Domain-Theory	Integer	Classification, Clustering	560	2		Computer	2014-07-22	2310	146743	63.52510822510823
+BlogFeedback	Multivariate	Integer, Real	Regression	60021	281		Social	2014-05-29	2364	100529	42.52495769881557
+REALDISP Activity Recognition Dataset	Multivariate, Time-Series	Real	Classification	1419	120		Computer	2014-07-25	2307	46476	20.14564369310793
+Newspaper and magazine images segmentation dataset			Classification	101			Computer	2014-07-15	2317	28723	12.39663357790246
+AAAI 2014 Accepted Papers	Multivariate		Clustering	399	6		Computer	2014-07-30	2302	55712	24.201563857515204
+Gas sensor array under flow modulation	Multivariate, Time-Series	Real	Classification, Regression	58	120432		Computer	2014-09-10	2260	39945	17.674778761061948
+Gas sensor array exposed to turbulent gas mixtures	Multivariate, Time-Series	Real	Classification, Regression	180	150000		Computer	2014-10-10	2230	42822	19.20269058295964
+UJIIndoorLoc	Multivariate	Integer, Real	Classification, Regression	21048	529		Computer	2014-09-18	2252	101911	45.25355239786856
+Sentence Classification	Text	Integer	Classification					2014-11-05	2204	77900	35.3448275862069
+Dow Jones Index	Time-Series	Integer, Real	Classification, Clustering	750	16		Business	2014-10-23	2217	223361	100.7492106450158
+sEMG for Basic Hand movements	Time-Series	Real	Classification	3000	2500		Life	2014-11-18	2191	70781	32.30534002738476
+AAAI 2013 Accepted Papers	Multivariate		Clustering	150	5		Computer	2014-07-30	2302	58209	25.28627280625543
+Geographical Original of Music	Multivariate	Real	Classification, Regression	1059	68			2014-10-18	2222	89972	40.49144914491449
+Condition Based Maintenance of Naval Propulsion Plants	Multivariate	Real	Regression	11934	16		Computer	2014-09-11	2259	62542	27.685701637892873
+Grammatical Facial Expressions	Multivariate, Sequential	Real	Classification, Clustering	27965	100		Computer	2014-10-06	2234	74103	33.170546105640106
+NoisyOffice	Multivariate	Real	Classification, Regression	216	216		Computer	2015-01-03	2145	69372	32.34125874125874
+MHEALTH Dataset	Multivariate, Time-Series	Real	Classification	120	23		Computer	2014-12-07	2172	105812	48.71639042357275
+Student Performance	Multivariate	Integer	Classification, Regression	649	33		Social	2014-11-27	2182	811750	372.02108157653527
+ElectricityLoadDiagrams20112014	Time-Series	Real	Regression, Clustering	370	140256		Computer	2015-03-13	2076	80649	38.84826589595376
+Gas sensor array under dynamic gas mixtures	Multivariate, Time-Series	Real	Classification, Regression	4178504	19		Computer	2015-03-20	2069	55217	26.687771870468826
+microblogPCU	Multivariate, Univariate, Sequential, Text	Integer, Real	Classification, Causal-Discovery	221579	20	Yes	Computer	2015-03-17	2072	51664	24.934362934362934
+Firm-Teacher_Clave-Direction_Classification	Multivariate		Classification	10800	20			2015-04-24	2034	29991	14.744837758112094
+Dataset for Sensorless Drive Diagnosis	Multivariate	Real	Classification	58509	49		Computer	2015-02-24	2093	75829	36.22981366459627
+TV News Channel Commercial Detection Dataset	Multivariate	Real	Classification, Clustering	129685	12		Computer	2015-03-27	2062	75340	36.537342386032975
+Phishing Websites		Integer	Classification	2456	30		Computer Security	2015-03-26	2063	155318	75.2874454677654
+Greenhouse Gas Observing Network	Multivariate, Time-Series	Real	Regression	2921	5232		Physical	2015-04-16	2042	59836	29.3026444662096
+Diabetic Retinopathy Debrecen Data Set	Multivariate	Integer, Real	Classification	1151	20		Life	2014-11-03	2206	112545	51.01767905711695
+HIV-1 protease cleavage	Multivariate	Categorical	Classification	6590	1		Life	2015-04-25	2033	63129	31.052139695031972
+Sentiment Labelled Sentences	Text		Classification	3000				2015-05-30	1998	183858	92.02102102102103
+Online News Popularity	Multivariate	Integer, Real	Classification, Regression	39797	61		Business	2015-05-31	1997	308470	154.4667000500751
+Forest type mapping	Multivariate		Classification	326	27		Life	2015-05-25	2003	61339	30.62356465302047
+wiki4HE	Multivariate		Regression, Clustering, Causal-Discovery	913	53	Yes	Social	2015-05-04	2024	49924	24.66600790513834
+Online Video Characteristics and Transcoding Time Dataset	Multivariate	Integer, Real	Regression	168286	11		Computer	2015-05-19	2009	44705	22.252364360378298
+Chronic_Kidney_Disease	Multivariate	Real	Classification	400	25	Yes		2015-07-03	1964	180997	92.15733197556008
+Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014	Sequential, Time-Series	Real	Classification	314080		Yes	Business	2015-06-06	1991	53550	26.896032144650928
+Folio	Multivariate		Classification, Clustering	637	20	Yes		2015-07-05	1962	60610	30.891946992864423
+Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015	Multivariate, Sequential, Time-Series, Domain-Theory	Real	Clustering, Causal-Discovery	1710671	9	Yes	Computer	2015-07-11	1956	84392	43.14519427402863
+Cuff-Less Blood Pressure Estimation	Multivariate	Real	Classification, Regression	12000	3	Yes	Life	2015-07-27	1940	119493	61.59432989690722
+Smartphone-Based Recognition of Human Activities and Postural Transitions	Multivariate, Time-Series	Real	Classification	10929	561		Life	2015-07-29	1938	180945	93.36687306501548
+Mice Protein Expression	Multivariate	Real	Classification, Clustering	1080	82	Yes	Life	2015-08-04	1932	82671	42.79037267080745
+UJIIndoorLoc-Mag	Multivariate, Sequential, Time-Series	Integer, Real	Classification, Regression, Clustering	40000	13		Computer	2015-09-10	1895	44389	23.424274406332454
+Heterogeneity Activity Recognition	Multivariate, Time-Series	Real	Classification, Clustering	43930257	16	Yes	Computer	2015-10-26	1849	105898	57.27312060573283
+Educational Process Mining (EPM): A Learning Analytics Data Set	Multivariate, Sequential, Time-Series	Integer	Classification, Regression, Clustering	230318	13		Computer	2015-09-24	1881	103688	55.12387028176502
+HEPMASS	Multivariate	Real	Classification	10500000	28		Physical	2016-01-28	1755	66895	38.116809116809115
+Indoor User Movement Prediction from RSS data	Multivariate, Sequential, Time-Series	Real	Classification	13197	4		Computer	2016-02-04	1748	65574	37.513729977116704
+Open University Learning Analytics dataset	Multivariate, Sequential, Time-Series	Integer	Classification, Regression, Clustering			Yes	Computer	2015-12-21	1793	65594	36.58337981037368
+default of credit card clients	Multivariate	Integer, Real	Classification	30000	24		Business	2016-01-26	1757	519437	295.63858850313034
+Mesothelioma’s disease data set 	Multivariate	Real	Classification	324	34		Computer	2016-01-11	1772	16289	9.192437923250564
+Online Retail	Multivariate, Sequential, Time-Series	Integer, Real	Classification, Clustering	541909	8		Business	2015-11-06	1838	528065	287.30413492927096
+SIFT10M	Multivariate	Integer	Causal-Discovery	11164866	128		Computer	2016-02-23	1729	33150	19.172932330827066
+GPS Trajectories	Multivariate	Real	Classification, Regression	163	15	Yes	Computer	2016-02-29	1723	112295	65.17411491584446
+Detect Malacious Executable(AntiVirus)	Multivariate	Real	Classification	373	513	Yes	Computer	2016-03-03	1720	258573	150.3331395348837
+Occupancy Detection 	Multivariate, Time-Series	Real	Classification	20560	7		Computer	2016-02-29	1723	148584	86.23563551944284
+Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson’s Disease	Multivariate	Real	Classification, Regression, Clustering	40	7		Computer	2016-03-05	1718	11189	6.512805587892899
+News Aggregator	Multivariate		Classification, Clustering	422937	5			2016-02-28	1724	92553	53.68503480278422
+Air Quality	Multivariate, Time-Series	Real	Regression	9358	15	Yes	Computer	2016-03-23	1700	474306	279.0035294117647
+Twin gas sensor arrays	Multivariate, Time-Series, Domain-Theory	Real	Classification, Regression	640	480000		Computer	2016-05-19	1643	49183	29.934875228241022
+Gas sensors for home activity monitoring	Multivariate, Time-Series	Real	Classification	919438	11		Computer	2016-07-15	1586	85065	53.63493064312736
+Facebook Comment Volume Dataset	Multivariate	Integer, Real	Regression	40949	54			2016-03-11	1712	99039	57.84988317757009
+Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)	Time-Series	Real	Classification	5744	561		Computer	2016-03-09	1714	50891	29.691365227537922
+Polish companies bankruptcy data	Multivariate	Real	Classification	10503	64	Yes	Business	2016-04-11	1681	112404	66.86734086853063
+Activity Recognition system based on Multisensor data fusion (AReM)	Multivariate, Sequential, Time-Series	Real	Classification	42240	6		Computer	2016-05-18	1644	65979	40.13321167883212
+Dota2 Games Results	Multivariate		Classification	102944	116		Game	2016-08-14	1556	105015	67.49035989717224
+Facebook metrics	Multivariate	Integer	Regression	500	19		Business	2016-08-05	1565	173388	110.79105431309904
+UbiqLog (smartphone lifelogging)	Multivariate		Causal-Discovery	9782222			Computer	2016-06-16	1615	31564	19.544272445820432
+NIPS Conference Papers 1987-2015	Text	Integer	Clustering	11463	5812		Computer	2016-11-23	1455	51905	35.67353951890034
+HTRU2	Multivariate	Real	Classification, Clustering	17898	9		Physical	2017-02-14	1372	66861	48.73250728862974
+Drug consumption (quantified)	Multivariate	Real	Classification	1885	32		Social	2016-10-17	1492	137126	91.90750670241287
+Appliances energy prediction	Multivariate, Time-Series	Real	Regression	19735	29		Computer	2017-02-15	1371	134056	97.77972283005106
+Miskolc IIS Hybrid IPS	Text	Integer	Classification, Clustering, Causal-Discovery	1540	67	Yes	Computer	2016-07-04	1597	14099	8.828428303068254
+KDC-4007 dataset Collection	Multivariate, Text	Integer	Classification, Regression	4007			Computer	2017-04-27	1300	32255	24.81153846153846
+Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone	Multivariate, Sequential, Time-Series	Integer, Real	Classification, Regression, Clustering	153540	25		Computer	2017-01-10	1407	33585	23.86993603411514
+DrivFace	Multivariate	Real	Classification, Regression, Clustering	606	6400		Computer	2016-05-26	1636	38243	23.375916870415647
+Website Phishing	Multivariate	Integer	Classification	1353	10		Computer	2016-11-02	1476	89147	60.39769647696477
+YouTube Spam Collection	Text		Classification	1956	5		Computer	2017-03-26	1332	86839	65.19444444444444
+Beijing PM2.5 Data	Multivariate, Time-Series	Integer, Real	Regression	43824	13	Yes	Physical	2017-01-19	1398	187416	134.06008583690988
+Cargo 2000 Freight Tracking and Tracing	Multivariate, Sequential	Integer	Classification, Regression	3942	98	Yes	Business	2016-11-03	1475	46015	31.196610169491525
+Cervical cancer (Risk Factors)	Multivariate	Integer, Real	Classification	858	36	Yes	Life	2017-03-03	1355	130323	96.17933579335794
+Quality Assessment of Digital Colposcopies	Multivariate	Real	Classification	287	69		Life	2017-03-08	1350	20712	15.342222222222222
+KASANDR	Multivariate	Integer	Causal-Discovery	17764280	2158859		Life	2017-05-16	1281	35473	27.691647150663545
+FMA: A Dataset For Music Analysis	Multivariate, Time-Series	Real	Classification, Clustering	106574	518		Computer	2017-05-24	1273	88970	69.89002356637863
+Air quality	Multivariate, Time-Series	Real	Regression	9358	15	Yes	Computer	2016-03-23	1700	474307	279.0041176470588
+Epileptic Seizure Recognition	Multivariate, Time-Series	Integer, Real	Classification, Clustering	11500	179		Life	2017-05-24	1273	119926	94.20738413197172
+Devanagari Handwritten Character Dataset		Integer	Classification	92000			Computer	2016-09-01	1538	30351	19.734070221066318
+Stock portfolio performance	Multivariate	Real	Regression	315	12		Business	2016-04-22	1670	70187	42.02814371257485
+MoCap Hand Postures	Multivariate	Integer, Real	Classification, Clustering	78095	38	Yes	Computer	2016-11-22	1456	22887	15.719093406593407
+Early biomarkers of Parkinson's disease based on natural connected speech	Multivariate	Integer, Real	Classification, Regression	130	65	Yes	Life	2017-02-15	1371	3558	2.5951859956236323
+Data for Software Engineering Teamwork Assessment in Education Setting	Sequential, Time-Series	Integer, Real	Classification	74	102	Yes	Computer	2017-06-29	1237	36406	29.430881164106708
+PM2.5 Data of Five Chinese Cities	Multivariate, Time-Series	Integer, Real	Regression	52854	86	Yes	Physical	2017-07-18	1218	87245	71.62972085385879
+Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet	Multivariate	Integer	Classification, Regression, Clustering	77	7		Computer	2017-07-20	1216	47997	39.47121710526316
+Sales_Transactions_Dataset_Weekly	Multivariate, Time-Series	Integer, Real	Clustering	811	53			2017-07-16	1220	75114	61.56885245901639
+Las Vegas Strip		Integer	Classification, Regression	504	20		Business	2017-07-23	1213	98215	80.96867271228359
+Eco-hotel	Text			401	1		Business	2017-07-23	1213	39346	32.43693322341303
+MEU-Mobile KSD	Multivariate	Integer, Real	Classification	2856	71		Computer	2016-05-14	1648	13565	8.23118932038835
+Crowdsourced Mapping	Multivariate		Classification	10546	29		Physical	2016-05-25	1637	24167	14.762981062919975
+gene expression cancer RNA-Seq	Multivariate	Real	Classification, Clustering	801	20531		Life	2016-06-09	1622	65037	40.09679408138101
+Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer	Multivariate, Sequential, Time-Series	Real	Classification	1540	65	Yes	Computer	2016-12-18	1430	15852	11.085314685314685
+Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network	Text	Integer	Classification	1075	22		Computer	2017-08-28	1177	31468	26.735768903993204
+Motion Capture Hand Postures	Multivariate	Real	Classification, Clustering	78095	38	Yes	Computer	2017-01-27	1390	31567	22.710071942446042
+Anuran Calls (MFCCs)	Multivariate	Real	Classification, Clustering	7195	22		Life	2017-02-24	1362	50763	37.27092511013216
+TTC-3600: Benchmark dataset for Turkish text categorization	Text	Integer	Classification, Clustering	3600	4814		Computer	2017-02-08	1378	15609	11.327285921625544
+Gastrointestinal Lesions in Regular Colonoscopy	Multivariate	Real	Classification	76	698		Computer	2016-10-15	1494	18993	12.71285140562249
+Daily Demand Forecasting Orders	Time-Series	Integer	Regression	60	13		Business	2017-11-21	1092	84652	77.52014652014653
+Paper Reviews	Text	Integer	Classification, Regression	405	10	Yes	Computer	2017-10-23	1121	55016	49.07760927743087
+extention of Z-Alizadeh sani dataset		Integer, Real	Classification	303	59		Life	2017-11-17	1096	12500	11.405109489051094
+Z-Alizadeh Sani		Integer, Real	Classification	303	56		Life	2017-11-17	1096	23734	21.655109489051096
+Dynamic Features of VirusShare Executables	Multivariate, Time-Series	Integer	Classification, Regression	107888	482		Computer	2017-11-29	1084	31908	29.435424354243544
+IDA2016Challenge	Multivariate	Integer	Classification	76000	171	Yes	Computer	2017-01-17	1400	18173	12.980714285714285
+DSRC Vehicle Communications	Sequential, Text	Real	Clustering	10000	5		Computer	2017-12-13	1070	31997	29.90373831775701
+Mturk User-Perceived Clusters over Images	Multivariate, Text	Integer	Clustering	180	500		Computer	2016-11-02	1476	9485	6.426151761517615
+Character Font Images	Multivariate	Integer, Real	Classification	745000	411		Computer	2016-08-14	1556	36123	23.21529562982005
+DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels	Text	Integer	Classification	12234	8519		Computer	2016-10-27	1482	19420	13.10391363022942
+Autistic Spectrum Disorder Screening Data for Children  	Multivariate	Integer	Classification	292	21	Yes	Life	2017-12-24	1059	47270	44.63644948064211
+Autistic Spectrum Disorder Screening Data for Adolescent   	Multivariate	Integer	Classification	104	21	Yes	Life	2017-12-24	1059	32527	30.714825306893296
+APS Failure at Scania Trucks	Multivariate	Integer, Real	Classification	60000	171	Yes	Computer	2017-12-08	1075	60102	55.90883720930233
+Wireless Indoor Localization	Multivariate	Real	Classification	2000	7		Computer	2017-12-04	1079	48587	45.02965708989805
+HCC Survival	Multivariate	Integer, Real	Classification	165	49	Yes	Life	2017-11-29	1084	36102	33.30442804428044
+CSM (Conventional and Social Media Movies) Dataset 2014 and 2015	Multivariate	Integer	Classification, Regression	217	12	Yes	Computer	2017-10-11	1133	32891	29.030008826125332
+University of Tehran Question Dataset 2016 (UTQD.2016)	Text		Classification	1175	3	Yes		2017-09-27	1147	13417	11.6974716652136
+Autism Screening Adult		Integer	Classification	704	21	Yes	Social	2017-12-24	1059	64515	60.920679886685555
+Activity recognition with healthy older people using a batteryless wearable sensor	Sequential	Real	Classification	75128	9		Life	2016-12-12	1436	37377	26.028551532033426
+Immunotherapy Dataset	Univariate	Integer, Real	Classification	90	8		Life	2018-01-04	1048	53314	50.87213740458015
+Cryotherapy Dataset 	Univariate	Integer, Real	Classification	90	7		Life	2018-01-04	1048	45899	43.79675572519084
+OCT data & Color Fundus Images of Left & Right Eyes	Multivariate	Real	Classification	50	2		Computer	2016-11-01	1477	17078	11.562626946513202
+Discrete Tone Image Dataset	Multivariate		Classification	71	11		Computer	2018-01-20	1032	20874	20.226744186046513
+News Popularity in Multiple Social Media Platforms	Multivariate, Time-Series, Text	Integer, Real	Regression	93239	11		Computer	2018-02-20	1001	61120	61.05894105894106
+Ultrasonic flowmeter diagnostics	Multivariate	Real	Classification	540	173		Computer	2018-01-13	1039	18266	17.58036573628489
+ICMLA 2014 Accepted Papers Data Set	Multivariate		Classification, Clustering	105	5			2018-02-19	1002	16286	16.253493013972054
+BLE RSSI Dataset for Indoor localization and Navigation	Multivariate, Sequential, Time-Series	Integer	Classification, Clustering	6611	15	Yes	Computer	2018-01-25	1027	32604	31.746835443037973
+Container Crane Controller Data Set	Univariate, Domain-Theory	Real	Classification, Regression	15	3		Computer	2018-01-01	1051	33053	31.449096098953376
+Residential Building Data Set	Multivariate	Real	Regression	372	105		Computer	2018-02-19	1002	50024	49.924151696606785
+Health News in Twitter	Text	Real	Clustering	58000	25000		Computer	2018-02-19	1002	52525	52.420159680638726
+chipseq	Sequential	Integer	Classification	4960			Life	2018-02-21	1000	22217	22.217
+SGEMM GPU kernel performance	Multivariate	Integer	Regression	241600	18		Computer	2018-02-27	994	27563	27.729376257545272
+Repeat Consumption Matrices	Multivariate	Real	Clustering	130000	21000		Computer	2018-03-22	971	22296	22.961894953656024
+detection_of_IoT_botnet_attacks_N_BaIoT	Multivariate, Sequential	Real	Classification, Clustering	7062606	115		Computer	2018-03-19	974	71745	73.66016427104722
+Absenteeism at work	Multivariate, Time-Series	Integer, Real	Classification, Clustering	740	21		Business	2018-04-05	957	189132	197.63009404388714
+SCADI	Multivariate		Classification, Clustering	70	206		Life	2018-04-14	948	31023	32.7246835443038
+Condition monitoring of hydraulic systems	Multivariate, Time-Series	Real	Classification, Regression	2205	43680		Computer	2018-04-26	936	56608	60.47863247863248
+Carbon Nanotubes	Univariate	Real	Regression	10721	8		Computer	2018-04-05	957	41034	42.877742946708466
+Optical Interconnection Network 	Multivariate	Integer, Real	Classification, Regression	640	10		Computer	2018-03-29	964	27658	28.690871369294605
+Sports articles for objectivity analysis	Multivariate, Text	Integer	Classification	1000	59		Social	2018-04-09	953	36981	38.80482686253935
+Breast Cancer Coimbra	Multivariate	Integer	Classification	116	10		Life	2018-03-06	987	96556	97.82776089159069
+GNFUV Unmanned Surface Vehicles Sensor Data	Multivariate, Time-Series	Real	Regression	1672	5		Computer	2018-05-06	926	22744	24.56155507559395
+Dishonest Internet users Dataset	Multivariate		Classification, Clustering	322	5		Computer	2018-03-20	973	48847	50.20246659815005
+Victorian Era Authorship Attribution	Text		Classification	93600	1000		Computer	2018-05-31	901	17645	19.58379578246393
+Simulated Falls and Daily Living Activities Data Set	Time-Series	Integer	Classification	3060	138	Yes	Life	2018-06-06	895	82915	92.64245810055866
+Multimodal Damage Identification for Humanitarian Computing	Multivariate, Text	Integer	Classification	5879			Social	2018-06-01	900	13114	14.571111111111112
+EEG Steady-State Visual Evoked Potential Signals	Multivariate, Time-Series	Integer	Classification, Regression	9200	16		Life	2018-07-13	858	36499	42.53962703962704
+Roman Urdu Data Set	Text		Classification	20000	2		Computer	2018-08-29	811	22498	27.741060419235513
+Avila	Multivariate	Real	Classification	20867	10		Computer	2018-06-20	881	34741	39.433598183881955
+PANDOR	Multivariate	Categorical	Recommendation				Life	2018-10-02	777	15463	19.9009009009009
+Drug Review Dataset (Druglib.com)	Multivariate, Text	Integer	Classification, Regression, Clustering	4143	8			2018-10-02	777	55877	71.91377091377092
+Drug Review Dataset (Drugs.com)	Multivariate, Text	Integer	Classification, Regression, Clustering	215063	6		Life	2018-10-04	775	83417	107.63483870967742
+Physical Unclonable Functions	Multivariate	Integer	Classification	6000000	129		Computer	2018-10-08	771	16832	21.831387808041505
+Superconductivty Data	Multivariate	Real	Regression	21263	81		Physical	2018-10-12	767	46625	60.78878748370274
+WESAD (Wearable Stress and Affect Detection)	Multivariate, Time-Series	Real	Classification, Regression	63000000	12		Computer	2018-09-14	795	44227	55.6314465408805
+GNFUV Unmanned Surface Vehicles Sensor Data Set 2	Multivariate, Sequential, Time-Series	Real	Regression	10190	6	Yes	Computer	2018-09-13	796	10970	13.78140703517588
+Student Academics Performance	Multivariate		Classification	300	22		Computer	2018-09-16	793	69123	87.16645649432535
+Online Shoppers Purchasing Intention Dataset	Multivariate	Integer, Real	Classification, Clustering	12330	18		Business	2018-08-31	809	102694	126.93943139678616
+PMU-UD	Univariate		Classification	5180	9		Computer	2018-08-05	835	11547	13.82874251497006
+Parkinson's Disease Classification	Multivariate	Integer, Real	Classification	756	754		Computer	2018-11-05	743	66025	88.86271870794079
+Electrical Grid Stability Simulated Data 	Multivariate	Real	Classification, Regression	10000	14		Physical	2018-11-16	732	50220	68.60655737704919
+Caesarian Section Classification Dataset	Univariate	Integer	Classification	80	5		Life	2018-11-02	746	42462	56.919571045576404
+BAUM-1	Time-Series		Classification	1184			Computer	2018-11-09	739	17245	23.33558863328823
+BAUM-2	Time-Series		Classification	1047			Computer	2018-11-09	739	11266	15.244925575101488
+Audit Data	Multivariate	Real	Classification	777	18	Yes		2018-07-14	857	44865	52.3512252042007
+BuddyMove Data Set	Multivariate, Text	Real	Classification, Clustering	249	7			2018-07-01	870	30455	35.00574712643678
+Real estate valuation data set	Multivariate	Integer, Real	Regression	414	7		Business	2018-08-18	822	85622	104.16301703163018
+Somerville Happiness Survey		Integer	Classification	143	7		Life	2018-05-24	908	21562	23.74669603524229
+2.4 GHZ Indoor Channel Measurements	Multivariate	Real	Classification	7840	5		Computer	2018-11-30	718	65445	91.14902506963789
+EMG data for gestures	Time-Series	Real	Classification	30000	6		Life	2019-01-07	680	52566	77.30294117647058
+Parking Birmingham	Multivariate, Univariate, Sequential, Time-Series	Real	Classification, Regression, Clustering	35717	4	Yes	Computer	2019-01-02	685	53639	78.30510948905109
+Behavior of the urban traffic of the city of Sao Paulo in Brazil	Multivariate, Time-Series	Integer, Real	Classification, Regression	135	18		Computer	2018-12-12	706	50942	72.15580736543909
+Travel Reviews	Multivariate, Text	Real	Classification, Clustering	980	11			2018-12-19	699	77103	110.30472103004291
+Tarvel Review Ratings	Multivariate, Text	Real	Classification, Clustering	5456	25			2018-12-19	699	55001	78.68526466380544
+Rice Leaf Diseases	Multivariate	Integer	Classification	120			Computer	2019-04-14	583	45107	77.3704974271012
+Gas sensor array temperature modulation	Multivariate, Time-Series	Real	Classification, Regression	4095000	20		Computer	2019-04-15	582	23633	40.606529209621996
+Facebook Live Sellers in Thailand	Multivariate	Integer	Clustering	7051	12		Business	2019-04-22	575	39279	68.31130434782608
+Parkinson Dataset with replicated acoustic features 	Multivariate		Classification	240	46		Life	2019-04-10	587	22009	37.49403747870528
+Metro Interstate Traffic Volume	Multivariate, Sequential, Time-Series	Integer, Real	Regression	48204	9			2019-05-07	560	53243	95.07678571428572
+Query Analytics Workloads Dataset	Multivariate	Real	Regression, Clustering	260000	8		Computer	2019-06-22	514	15728	30.59922178988327
+Wave Energy Converters	Multivariate	Real	Regression	288000	49	Yes	Computer	2019-06-30	506	20857	41.219367588932805
+PPG-DaLiA	Multivariate, Time-Series	Real	Regression	8300000	11		Computer	2019-07-30	476	20543	43.15756302521008
+Alcohol QCM Sensor Dataset	Multivariate	Real	Classification, Regression, Clustering	125	8		Computer	2019-07-22	484	51366	106.12809917355372
+Divorce Predictors data set	Multivariate, Univariate	Integer	Classification	170	54		Life	2019-07-24	482	87656	181.85892116182572
+Incident management process enriched event log	Multivariate, Sequential	Integer	Regression, Clustering	141712	36	Yes	Business	2019-07-14	492	25225	51.270325203252035
+Opinion Corpus for Lebanese Arabic Reviews (OCLAR)	Text	Integer	Classification	3916	3916		Computer	2019-06-17	519	4750	9.152215799614643
+MEx	Time-Series	Real	Classification, Clustering	6262	710		Computer	2019-09-20	424	13479	31.79009433962264
+Beijing Multi-Site Air-Quality Data	Multivariate, Time-Series	Integer, Real	Regression	420768	18	Yes	Physical	2019-09-20	424	49758	117.35377358490567
+Online Retail II	Multivariate, Sequential, Time-Series, Text	Integer, Real	Classification, Regression, Clustering	1067371	8	Yes	Business	2019-09-21	423	87599	207.08983451536642
+Hepatitis C Virus (HCV) for Egyptian patients	Multivariate	Integer, Real	Classification	1385	29		Life	2019-09-30	414	51872	125.29468599033817
+QSAR fish toxicity	Multivariate	Real	Regression	908	7		Physical	2019-09-23	421	28341	67.31828978622327
+QSAR aquatic toxicity	Multivariate	Real	Regression	546	9		Physical	2019-09-23	421	16977	40.32541567695962
+Human Activity Recognition from Continuous Ambient Sensor Data	Multivariate, Sequential, Time-Series	Integer, Real	Classification	13956534	37	Yes		2019-09-20	424	26131	61.62971698113208
+WISDM Smartphone and Smartwatch Activity and Biometrics Dataset 	Multivariate, Time-Series	Real	Classification	15630426	6		Computer	2019-10-06	408	60955	149.39950980392157
+QSAR oral toxicity	Multivariate		Classification	8992	1024		Physical	2019-10-01	413	7803	18.893462469733656
+QSAR androgen receptor	Multivariate		Classification	1687	1024		Physical	2019-10-01	413	4094	9.912832929782082
+QSAR Bioconcentration classes dataset	Multivariate		Classification, Regression	779	14		Life	2019-10-11	403	7440	18.46153846153846
+QSAR fish bioconcentration factor (BCF)	Multivariate	Integer, Real	Regression	1056	7		Life	2019-11-27	356	7521	21.126404494382022
+A study of  Asian Religious and Biblical Texts	Multivariate, Text	Integer	Classification, Clustering	590	8265		Social	2019-12-24	329	21810	66.2917933130699
+Real-time Election Results: Portugal 2019	Multivariate, Time-Series, Text	Integer, Real	Regression	21643	29		Social	2019-12-05	348	14845	42.6580459770115
+Bias correction of numerical prediction model temperature forecast	Multivariate	Real	Regression	7750	25	Yes	Physical	2020-02-18	273	18245	66.83150183150182
+Bar Crawl: Detecting Heavy Drinking	Multivariate, Time-Series	Real	Classification, Regression	14057567	3		Life	2020-02-24	267	59713	223.6441947565543
+Kitsune Network Attack Dataset	Multivariate, Sequential, Time-Series	Real	Classification, Clustering, Causal-Discovery	27170754	115		Computer	2019-10-16	398	119692	300.73366834170855
+Shoulder Implant X-Ray Manufacturer Classification	Multivariate	Real	Classification	597	1		Life	2020-05-20	181	4323	23.883977900552487
+Speaker Accent Recognition	Multivariate	Real	Classification	329	12		Social	2020-03-04	258	7249	28.0968992248062
+Heart failure clinical records	Multivariate	Integer, Real	Classification, Regression, Clustering	299	13		Life	2020-02-05	286	27032	94.51748251748252
+Deepfakes: Medical Image Tamper Detection	Multivariate	Real	Classification	20000	200000		Computer	2020-03-11	251	5789	23.06374501992032
+selfBACK	Time-Series	Real	Classification, Clustering	26136	6		Computer	2020-06-15	155	8113	52.34193548387097
+South German Credit	Multivariate	Integer, Real	Classification, Regression, Clustering	1000	21		Business	2019-11-29	354	7102	20.062146892655367
+Exasens	Multivariate	Integer	Classification, Clustering	399	4	Yes	Life	2020-04-22	209	7858	37.59808612440192
+Swarm Behaviour	Multivariate	Real	Classification	24017	2400		Computer	2020-06-16	154	12640	82.07792207792208
+Crop mapping using fused optical-radar data set	Multivariate, Time-Series	Real	Classification	325834	175			2020-06-16	154	7573	49.175324675324674
+BitcoinHeistRansomwareAddressDataset	Multivariate, Time-Series	Integer, Real	Classification, Clustering	2916697	10		Computer	2020-06-17	153	15092	98.640522875817
+Facebook Large Page-Page Network	Multivariate		Classification	22470	4714		Social	2020-07-22	118	21181	179.5
+Amphibians	Multivariate	Integer, Real	Classification	189	23		Life	2020-07-17	123	17161	139.52032520325204
+Early stage diabetes risk prediction dataset.	Multivariate		Classification	520	17	Yes	Computer	2020-07-12	128	25700	200.78125
+Turkish Spam V01	Text		Classification	826	2		Social	2019-04-07	590	1159	1.964406779661017
+Stock keeping units	Multivariate	Integer, Real	Clustering	2279	9	Yes	Business	2019-04-10	587	2618	4.459965928449744
+Demand Forecasting for a store	Multivariate	Integer	Regression	28764	8			2019-05-14	553	6030	10.904159132007234
+Detect Malware Types	Multivariate, Time-Series, Text		Classification	7107	280		Computer	2019-06-03	533	4074	7.643527204502814
+Wave Energy Converters	Multivariate	Real	Regression	288000	49	Yes	Computer	2019-06-30	506	20858	41.22134387351779
+Youtube cookery channels viewers comments in Hinglish	Multivariate, Text		Classification	9800	3		Computer	2019-07-03	503	1523	3.0278330019880717
+Pedestrian in Traffic Dataset	Multivariate, Sequential, Time-Series	Real	Classification, Regression, Causal-Discovery	4760	14	Yes	Computer	2019-07-04	502	4635	9.233067729083665
+Cervical Cancer Behavior Risk	Multivariate, Univariate	Integer	Classification, Clustering	72	19		Life	2019-07-17	489	4302	8.797546012269938
+Sattriya_Dance_Single_Hand_Gestures Dataset	Multivariate		Classification	1450			Computer	2019-07-22	484	498	1.0289256198347108
+Divorce Predictors data set	Multivariate, Univariate	Integer	Classification	170	54		Life	2019-07-24	482	87657	181.8609958506224
+3W dataset	Multivariate, Time-Series	Integer, Real	Classification, Clustering	1984	8	Yes	Computer	2019-08-15	460	6820	14.826086956521738
+Malware static and dynamic features VxHeaven and Virus Total	Multivariate	Integer, Real	Classification	2955	1087		Computer	2019-01-31	656	1171	1.7850609756097562
+Internet Firewall Data	Multivariate		Classification	65532	12		Computer	2019-02-04	652	3726	5.714723926380368
+User Profiling and Abusive Language Detection Dataset			Classification	65919	3		Computer	2019-04-25	572	1452	2.5384615384615383
+Estimation of obesity levels based on eating habits and physical condition 	Multivariate	Integer	Classification, Regression, Clustering	2111	17		Life	2019-08-27	448	10868	24.258928571428573
+Rice (Cammeo and Osmancik)	Multivariate	Real	Classification	3810	8		Computer	2019-10-06	408	3250	7.965686274509804
+Vehicle routing and scheduling problems	Multivariate	Integer, Real	Clustering	18	9		Business	2019-10-07	407	2790	6.855036855036855
+Algerian Forest Fires Dataset  	Multivariate	Real	Classification, Regression	244	12		Life	2019-10-22	392	6217	15.85969387755102
+Breath Metabolomics	Multivariate, Time-Series	Real	Classification, Clustering	104	1656		Life	2019-11-08	375	2925	7.8
+Horton General Hospital	Multivariate, Time-Series	Integer	Causal-Discovery	139	6		Life	2019-11-13	370	1904	5.145945945945946
+UrbanGB, urban road accidents coordinates labelled by the urban center	Univariate	Real	Clustering	360177	2		Computer	2019-11-22	361	1531	4.240997229916897
+Gas Turbine CO and NOx Emission Data Set	Multivariate	Real	Regression, Clustering	36733	11		Computer	2019-11-29	354	4015	11.341807909604519
+Activity recognition using wearable physiological measurements	Multivariate	Real	Classification	4480	533		Life	2019-12-04	349	3608	10.33810888252149
+clickstream data for online shopping	Multivariate, Sequential	Integer, Real	Classification, Regression, Clustering	165474	14		Business	2019-12-09	344	9942	28.901162790697676
+CNNpred: CNN-based stock market prediction using a diverse set of variables	Sequential, Time-Series	Real	Classification, Regression	1985	84	Yes	Computer	2019-12-26	327	3317	10.143730886850152
+Apartment for rent classified	Multivariate		Classification, Regression, Clustering	10000	22		Business	2019-12-26	327	13634	41.694189602446485
+: Simulated Data set of Iraqi tourism places	Multivariate		Classification, Clustering	232	16		Computer	2020-01-10	312	2806	8.993589743589743
+Nasarian CAD Dataset	Multivariate		Classification	150	52		Life	2020-02-28	263	1002	3.8098859315589353
+Monolithic Columns in Troad and Mysia Region	Multivariate	Real	Classification	11	19		Computer	2020-02-08	283	656	2.3180212014134276
+Bar Crawl: Detecting Heavy Drinking	Multivariate, Time-Series	Real	Classification, Regression	14057567	3		Life	2020-02-24	267	59714	223.64794007490636
+Seoul Bike Sharing Demand	Multivariate	Integer, Real	Regression	8760	14		Computer	2020-03-01	261	7874	30.168582375478927
+Person Classification Gait Data	Multivariate	Real	Classification	48	321		Computer	2020-03-02	260	1909	7.342307692307692
+Shill Bidding Dataset	Multivariate		Classification, Clustering	6321	13		Computer	2020-03-10	252	2549	10.115079365079366
+Iranian Churn Dataset	Multivariate	Integer	Classification, Regression	3150	13		Business	2020-04-09	222	5845	26.32882882882883
+Unmanned Aerial Vehicle (UAV) Intrusion Detection	Multivariate	Real	Classification	17256	55		Computer	2020-04-12	219	3054	13.945205479452055
+Bone marrow transplant: children	Multivariate	Integer, Real	Classification, Regression	187	39	Yes	Life	2020-04-21	210	5546	26.409523809523808
+Exasens	Multivariate	Integer	Classification, Clustering	399	4	Yes	Life	2020-04-22	209	7859	37.60287081339713
+COVID-19 Surveillance	Multivariate		Classification	14	7		Computer	2020-04-24	207	11731	56.671497584541065
+Refractive errors	Multivariate	Integer	Classification	467	79	Yes	Life	2020-04-27	204	1858	9.107843137254902
+Shoulder Implant X-Ray Manufacturer Classification	Multivariate	Real	Classification	597	1		Life	2020-05-20	181	4324	23.88950276243094
+CLINC150	Text		Classification	23700				2020-05-08	193	2052	10.632124352331607
+HCV data	Multivariate	Integer, Real	Classification, Clustering	615	14	Yes	Life	2020-06-10	160	17082	106.7625
+Taiwanese Bankruptcy Prediction	Multivariate	Integer	Classification	6819	96		Business	2020-06-28	142	15699	110.55633802816901
+South German Credit (UPDATE)	Multivariate	Integer, Real	Classification, Regression, Clustering	1000	21		Business	2020-06-20	150	11822	78.81333333333333
+IIWA14-R820-Gazebo-Dataset-10Trajectories		Integer	Regression				Computer	2020-06-09	161	2138	13.279503105590063
+Guitar Chords finger positions	Text		Classification	2633	5			2020-06-05	165	8484	51.41818181818182
+Russian Corpus of Biographical Texts	Text		Classification	200	2			2020-06-03	167	1514	9.065868263473053
+Codon usage	Multivariate		Classification, Clustering	13028	69	Yes	Life	2020-10-03	45	7781	172.9111111111111
+Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset	Time-Series	Real	Classification	800	9		Physical	2020-09-03	75	2433	32.44
